@@ -89,7 +89,7 @@ node server.js
 Server URL:
 
 ```http
-http://localhost:3000
+http://localhost:3000/employee/1
 ```
 
 ## Author
